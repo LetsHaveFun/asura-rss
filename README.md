@@ -11,3 +11,5 @@ future plans (wont happen):
 - better docs
 
 ok bye
+
+maybe not
